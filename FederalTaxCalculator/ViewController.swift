@@ -10,11 +10,31 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    // MARK:Properties
+    
+    @IBOutlet weak var firstName: UITextField!
+    
+    @IBOutlet weak var grossAnnualIncome: UITextField!
+    
+    @IBOutlet weak var answerOutput: UILabel!
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
 
 
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
 }
 
